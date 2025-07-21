@@ -1,6 +1,10 @@
 # Disease-Tracking-and-Management-Dashboard
+![](Disease_page.jpg)
+
 ##**Introduction**
 This is a public health surveillance analysis designed for tracking and managing an outbreak of Neisseria meningitidis (Meningitis). It provides a comprehensive, multi-faceted overview of the outbreak by summarizing data on a total of 284,484 individuals. The dashboard is structured into two views, covering key epidemiological components: person (demographics like age, gender), place (rural/urban settlement, top affected states in Nigeria), and time (a historical 10-year trend). Its intended audience is likely public health officials, epidemiologists, and agencies like the Nigeria Centre for Disease Control (NCDC) who need to make data-driven decisions for intervention and resource allocation.
+
+![](Disease_home.PNG)
 
 ##**Problem Statement**
 The dataset aims to answer critical public health questions essential for managing a disease outbreak:
@@ -24,6 +28,8 @@ The dashboard has demonstrated skills in:
 ##**Recommendations**
 For Public Health Action (Based on the Data):
 1  Target High-Risk Demographics: The data shows the outbreak has an extremely high mortality rate (~50%) and disproportionately affects children under the age of 10. This group should be the absolute priority for vaccination campaigns and public awareness efforts.
+
+![](Disease_new.PNG)
 2  Focus on High-Burden States: Resources—including vaccines, medical personnel, and supplies—should be strategically directed to the states most affected, particularly Ondo, Bayelsa, Yobe, and Niger.
 3  Deploy Correct Vaccine: The "Serotype analysis" clearly shows Neisseria meningitidis group W as the dominant strain. Public health authorities must ensure the availability and deployment of vaccines that provide protection against this specific serotype (e.g., quadrivalent ACWY vaccines).
 4  Investigate Rural vs. Urban Outcomes: Further research is needed to understand why survival rates appear slightly better in rural areas (50.3%) than in urban ones (49.9%). This could inform community-level health strategies.
